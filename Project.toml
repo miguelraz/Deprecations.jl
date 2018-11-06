@@ -1,0 +1,10 @@
+name = "Deprecations"
+uuid = "f3167036-e214-11e8-33a5-e985d823e1af"
+author = "JuliaComputing"
+version = "0.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+CSTParser = "00ebfdb7-1f24-5e51-bd34-a7502290713f"
+TestSetExtensions = "d40d4617-1dd8-5232-bf05-d2d0ca0a4896"
+Tokenize = "0796e94c-ce3b-5d07-9a54-7f471281c624"
